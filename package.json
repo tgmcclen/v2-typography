@@ -7,6 +7,6 @@
     "url": "git@github.com:nib-styles/v2-typography.git"
   },
   "dependencies": {
-    "@nib-styles/v2-icons": "git@github.com:nib-styles/v2-typography.git#2.0.3"
+    "nib-styles-v2-icons": "git@github.com:nib-styles/v2-typography.git#2.0.3"
   }
 }
